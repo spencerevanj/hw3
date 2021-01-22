@@ -11,16 +11,16 @@ function pageLoad() {
   // these variables map to the elements on the finished page;
   // assign the proper value to each variable
 
-  // levelOfService
-  // passenger1Name, passenger1Phone, passenger1NumberOfPassengers
-  // passenger1PickupAddressLine1, passenger1PickupAddressLine2
-  // passenger1DropoffAddressLine1, passenger1DropoffAddressLine2
-  // passenger2Name, passenger2Phone, passenger2NumberOfPassengers
-  // passenger2PickupAddressLine1, passenger2PickupAddressLine2
-  // passenger2DropoffAddressLine1, passenger2DropoffAddressLine2
-  // passenger3Name, passenger3Phone, passenger3NumberOfPassengers
-  // passenger3PickupAddressLine1, passenger3PickupAddressLine2
-  // passenger3DropoffAddressLine1, passenger3DropoffAddressLine2
+  levelOfService
+  passenger1Name, passenger1Phone, passenger1NumberOfPassengers
+  passenger1PickupAddressLine1, passenger1PickupAddressLine2
+  passenger1DropoffAddressLine1, passenger1DropoffAddressLine2
+  passenger2Name, passenger2Phone, passenger2NumberOfPassengers
+  passenger2PickupAddressLine1, passenger2PickupAddressLine2
+  passenger2DropoffAddressLine1, passenger2DropoffAddressLine2
+  passenger3Name, passenger3Phone, passenger3NumberOfPassengers
+  passenger3PickupAddressLine1, passenger3PickupAddressLine2
+  passenger3DropoffAddressLine1, passenger3DropoffAddressLine2
   
   //  👆 YOUR CODE ENDS HERE. DON'T CHANGE ANY OTHER CODE 👆
 }
